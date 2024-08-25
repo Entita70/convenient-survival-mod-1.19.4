@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cs_mod:block/sulfur_ore"
+  }
+}

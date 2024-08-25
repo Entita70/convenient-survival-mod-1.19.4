@@ -1,0 +1,18 @@
+{
+
+  "block.cs_mod.smoldering_netherrack" : "Netherrack Incandescente",
+  "block.cs_mod.prismarine_ore" : "Minerale di Prismarino",
+  "block.cs_mod.bones_ore" : "Ossa nella Pietra",
+  "block.cs_mod.ender_calcium_ore" : "Minerale di Calcite dell'End",
+  "block.cs_mod.smoldering_coal_block" : "Blocco di Carbone Incandescente",
+  "block.cs_mod.sulfur_ore" : "Minerale di Zolfo",
+  "block.cs_mod.deepslate_sulfur_ore" : "Minerale di Zolfo in Ardesia Profonda",
+  "block.cs_mod.sulfur_block" : "Blocco di Zolfo",
+
+
+  "item.cs_mod.smoldering_coal" : "Carbone Incandescente",
+  "item.cs_mod.ender_calcium" : "Calcite dell'End",
+  "item.cs_mod.sulfur" : "Zolfo"
+
+
+}

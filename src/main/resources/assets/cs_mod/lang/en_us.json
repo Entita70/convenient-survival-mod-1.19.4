@@ -1,0 +1,26 @@
+{
+
+  "block.cs_mod.smoldering_netherrack" : "Blazing Netherrack",
+  "block.cs_mod.prismarine_ore" : "Prismarine Ore",
+  "block.cs_mod.bones_ore" : "Bones Ore",
+  "block.cs_mod.ender_calcium_ore" : "Ender Calcite Ore",
+  "block.cs_mod.smoldering_coal_block" : "Blazing Coal Block",
+  "block.cs_mod.sulfur_ore" : "Sulfur Ore",
+  "block.cs_mod.deepslate_sulfur_ore" : "Deepslate Sulfur Ore",
+  "block.cs_mod.sulfur_block" : "Sulfur Block",
+
+
+  "item.cs_mod.smoldering_coal" : "Blazing Coal",
+  "item.cs_mod.ender_calcium" : "Ender Calcite",
+  "item.cs_mod.sulfur" : "Sulfur"
+
+
+
+
+
+
+
+
+
+
+}

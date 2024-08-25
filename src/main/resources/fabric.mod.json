@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cs_mod",
+	"version": "${version}",
+	"name": "Convenient survival Mod",
+	"description": "This mod is to make survival just that bit more convenient, especially in peaceful mode",
+	"authors": [
+		"Eravern"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cs_mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.eravern.cs_mod.CSMod"
+		],
+		"client": [
+			"net.eravern.cs_mod.CSModClient"
+		],
+		"fabric-datagen": [
+			"net.eravern.cs_mod.CSModDataGenerator"
+		]
+	},
+	"mixins": [
+		"cs_mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": ">=1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

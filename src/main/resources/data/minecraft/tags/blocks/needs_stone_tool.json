@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+
+    "cs_mod:prismarine_ore",
+    "cs_mod:smoldering_netherrack",
+    "cs_mod:smoldering_coal_block",
+    "cs_mod:bones_ore",
+    "cs_mod:sulfur_ore",
+    "cs_mod:deepslate_sulfur_ore",
+    "cs_mod:sulfur_block"
+  ]
+}

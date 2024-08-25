@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "smoldering_coal",
+  "ingredient": {
+    "item": "cs_mod:smoldering_netherrack"
+  },
+  "result": "cs_mod:smoldering_coal"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "sulfur",
+  "ingredient": {
+    "item": "cs_mod:prismarine_ore"
+  },
+  "result": "minecraft:prismarine_shard"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+
+    "X": {
+      "item": "cs_mod:sulfur"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "item": "cs_mod:sulfur_block"
+  },
+  "show_notification": true
+}
